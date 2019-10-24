@@ -1,6 +1,6 @@
 # messenger_clone
 
-A new Flutter application.
+Making Messenger with Flutter!!
 
 ## Getting Started
 
